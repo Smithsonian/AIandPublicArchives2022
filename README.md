@@ -10,11 +10,13 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 **Topic: Learning about AI in libraries**
 **10:00am** Welcome
 **10:10am** Review pre-workshop survey results
-**10:20am** Choosing your breakout room activity 
+**10:20am** Choosing your breakout room activity
+
 - Break Room #1: Impact and effort matrix activity
 - Breakout Room #2: Assessing the readiness of collections
 - Breakout Room #3: Leadership roundtable—for library deans and agency leaders to discuss organizational needs and strategies 
 - Breakout Room #4: Lessons learned; institutional networking
+
 **10:30** Agencies highlighting some of their current AI work/activities 
 **11:00** Define breakout activity
 **11:05** Break
