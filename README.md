@@ -21,7 +21,7 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 - Breakout Room #3: Leadership roundtable—for library deans and agency leaders to discuss organizational needs and strategies 
 - Breakout Room #4: Lessons learned; institutional networking
 
-**10:30** Agencies highlighting some of their current AI work/activities 
+**10:30** Agencies highlight some of their current AI work/activities 
 
 **11:00** Define breakout activity
 
@@ -44,10 +44,10 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 
 **10:45** Q&A
 
-**11:05** Define breakout activity (5 min)
+**11:05** Define breakout activity
 
 **11:10** Break
 
-**11:15** Breakout room discussions: Creating & Implementing a shared AI Ethics framework
+**11:15** Breakout room discussions: Creating and implementing a shared AI ethics framework
 
 **11:45** Conclusion
