@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Leading the Future of AI and Public Archives Workshop
 
-You can use the [editor on GitHub](https://github.com/sidatasciencelab/AIandPublicArchives/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Invited workshop participants can register here: [Zoom registration](https://virginiatech.zoom.us/meeting/register/tZMvcuCrrz4jG9USp80YiR2tJt3HIGhw05dr).
+
+Please also complete this short [Pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSc_PW-Fhk1ZUlnIZYVzXpBL-KroE4OECO64Gqo0ShRN2qtMAg/formrestricted).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
