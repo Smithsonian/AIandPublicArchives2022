@@ -1,4 +1,4 @@
-## Welcome to the Leading the Future of AI and Public Archives Workshop
+## Leading the Future of AI and Public Archives
 
 Invited workshop participants can register here: [Zoom registration](https://virginiatech.zoom.us/meeting/register/tZMvcuCrrz4jG9USp80YiR2tJt3HIGhw05dr).
 
