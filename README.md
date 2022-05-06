@@ -20,10 +20,10 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 
   **10:20am** Choosing your breakout room activity
 
-  - Breakout Room #1: Impact and effort matrix activity
-  - Breakout Room #2: Assessing the readiness of collections
-  - Breakout Room #3: Leadership roundtable—for library deans and agency leaders to discuss organizational needs and strategies 
-  - Breakout Room #4: Lessons learned; institutional networking
+  - Breakout Room #1: Leadership roundtable—discuss organizational (resourcing, staffing, modernization, build v. buy) needs and strategies, individual reflections
+  - Breakout Room #2: Lessons learned; Share a problem, share a solution?
+  - Breakout Room #3: Defining the Problem Space 
+  - Breakout Room #4: Action Priority Matrix Activity
 
 **Plenary**
 
