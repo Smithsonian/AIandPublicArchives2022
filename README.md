@@ -12,39 +12,35 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 
 **Plenary**
 
-  **10:00am** Welcome note and intro (10 min) by Sylvester Johnson (VT) & Jill Reilly (NARA)
+  **10:00** Welcome note and intro (10 min) by Sylvester Johnson (VT) & Jill Reilly (NARA)
 
-  **10:10am** Review pre-workshop survey results
+  **10:10** Review pre-workshop survey results
 
-**Breakout**
-
-  **10:20am** Choosing your breakout room activity
-
-  - Breakout Room #1: Leadership roundtable—discuss organizational (resourcing, staffing, modernization, build v. buy) needs and strategies, individual reflections
-  - Breakout Room #2: Lessons learned; Share a problem, share a solution?
-  - Breakout Room #3: Defining the Problem Space 
-  - Breakout Room #4: Action Priority Matrix Activity
-
-**Plenary**
-
-  **10:30** Agencies highlight some of their current AI work/activities 
+  **10:20** Agencies highlight some of their current AI work/activities 
 
   - Smithsonian Institution
   - Library of Congress
   - National Archives and Records Administration
   - Virginia Tech
 
-  **11:00** Define breakout activity
-
-  **11:05** Break
-
 **Breakout**
 
-  **11:10** Breakout room discussions
+  **10:50** Define breakout activity
+
+  - Breakout Room #1: Leadership roundtable—discuss organizational (resourcing, staffing, modernization, build v. buy) needs and strategies, individual reflections
+  - Breakout Room #2: Lessons learned; Share a problem, share a solution?
+  - Breakout Room #3: Defining the Problem Space 
+  - Breakout Room #4: Action Priority Matrix Activity
+
+  **10:55** Break
+
+  **11:00** Breakout room discussions
 
 **Plenary**
 
   **11:40** Plenary conversation – reporting out from breakouts
+  
+  **Noon** Close
 
 
 ### Friday May 13th, 2022 (10am-noon EDT)
