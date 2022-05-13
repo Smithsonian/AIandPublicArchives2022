@@ -47,18 +47,24 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 
 **Topic: Ethical AI: Mitigating risks in AI**
 
-**10:00am** Welcome and reflection on last workshop
+**Plenary**
 
-**10:10am** Ice breaker activity in breakout rooms
+ **10:00** Welcome and reflection on last workshop
 
-**10:25** Keynote speaker: Elham Tabassi (Chief of Staff, Information Technology Laboratory, National Institute of Standards and Technology)
+ **10:05** Keynote speaker: Elham Tabassi (Chief of Staff, Information Technology Laboratory, National Institute of Standards and Technology)
 
-**10:45** Q&A
+ **10:25** Q&A
+ 
+**Breakout***
 
-**11:05** Define breakout activity
+ **10:45** Define breakout activity
 
-**11:10** Break
+ **10:55** Break
 
-**11:15** Breakout room discussions: Creating and implementing a shared AI ethics framework
+ **11:00** Breakout room discussions: Balancing Benefits and Risks
+ 
+**Plenary**
 
-**11:45** Conclusion
+ **11:40** Conclusion
+ 
+ **12:00** Workshop End
