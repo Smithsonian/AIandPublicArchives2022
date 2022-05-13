@@ -55,7 +55,7 @@ Please also complete this short [pre-workshop survey](https://docs.google.com/fo
 
  **10:25** Q&A
  
-**Breakout***
+**Breakout**
 
  **10:45** Define breakout activity
 
