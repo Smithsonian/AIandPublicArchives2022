@@ -1,4 +1,5 @@
-## Tentative Agenda (more details to come): November 2022
+## Leading the Future of AI and Public Archives
+### Tentative Agenda (more details to come): November 2022
 ### Wednesday–Thursday, November 16th-17th, 2022, 1 PM–3:30 PM EST
 ### Zoom link: TBA
 
