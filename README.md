@@ -1,8 +1,25 @@
-## Leading the Future of AI and Public Archives
+## Tentative Agenda (more details to come): November 2022
+### Wednesday–Thursday, November 16th-17th, 2022, 1 PM–3:30 PM EST
+### Zoom link: TBA
 
-Invited workshop participants can [register here](https://virginiatech.zoom.us/meeting/register/tZMvcuCrrz4jG9USp80YiR2tJt3HIGhw05dr).
+## Day 1: Wednesday, November 16th 
 
-Please also complete this short [pre-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSc_PW-Fhk1ZUlnIZYVzXpBL-KroE4OECO64Gqo0ShRN2qtMAg/formrestricted).
+**Plenary:** Proposed Frameworks and stepping toward creating an institutional AI ethics statement (Library of Congress and Smithsonian; 45 mins)
+
+**Breakout:** Focus on operationalizing ethics in procurement I 
+
+
+## Day 2: Thursday, November 17th
+
+**Plenary:** Wikidata AI Ethics research (Isaac Johnson Senior Research Scientist, Wikimedia Foundation & NARA; 45 minutes)
+
+**Breakout:** Focus on operationalizing ethics in procurement II 
+
+**Plenary:** Framing future group work (Virginia Tech)
+
+***
+
+## Past Workshop Information
 
 ## Agenda
 
