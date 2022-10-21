@@ -14,7 +14,7 @@
 
 ## Day 2: Thursday, November 17th
 
-**Plenary:** Wikidata AI Ethics research (Isaac Johnson Senior Research Scientist, Wikimedia Foundation and National Archives; 45 minutes)
+**Plenary:** Wikidata AI Ethics research (Isaac Johnson, Senior Research Scientist, Wikimedia Foundation and National Archives; 45 minutes)
 
 **Breakout:** Focus on operationalizing ethics in procurement II 
 
