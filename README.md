@@ -1,6 +1,8 @@
 ## Leading the Future of AI and Public Archives
-**Wednesday–Thursday, November 16th-17th, 2022, 1 PM–3:30 PM EST**
-**Zoom link:** TBA
+**When:** Wednesday–Thursday, November 16th-17th, 2022, 1 PM–3:30 PM EST
+
+**Where** Zoom (link TBA)
+
 ### Tentative Agenda (more details to come): November 2022
 
 ## Day 1: Wednesday, November 16th 
