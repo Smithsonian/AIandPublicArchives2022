@@ -7,7 +7,7 @@
 
 ## Day 1: Wednesday, November 16th 
 
-**Plenary:** Proposed Frameworks and stepping toward creating an institutional AI ethics statement (Library of Congress and Smithsonian; 45 mins)
+**Plenary:** Proposed Frameworks and Stepping Toward Creating an Institutional AI Ethics Statement (Library of Congress and Smithsonian; 45 mins)
 
 **Breakout:** Focus on Operationalizing Ethics in Procurement
 
