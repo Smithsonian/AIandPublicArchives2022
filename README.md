@@ -1,7 +1,7 @@
 ## Leading the Future of AI and Public Archives
 **When:** Wednesday–Thursday, November 16th-17th, 2022, 1 PM–4:00 PM EST
 
-**Where:** Zoom (link TBA)
+**Where:** Zoom link provided via email
 
 ### Tentative Agenda (more details to come): November 2022
 
@@ -9,14 +9,18 @@
 
 **Plenary:** Proposed Frameworks and stepping toward creating an institutional AI ethics statement (Library of Congress and Smithsonian; 45 mins)
 
-**Breakout:** Focus on operationalizing ethics in procurement I 
+**Breakout:** Focus on Operationalizing Ethics in Procurement
+
+**Breakout:** Beginning to Outline the Ethics Framework
 
 
 ## Day 2: Thursday, November 17th
 
-**Plenary:** Wikidata AI Ethics research (Isaac Johnson, Senior Research Scientist, Wikimedia Foundation and National Archives; 45 minutes)
+**Plenary:** Wikidata AI Ethics Research (Isaac Johnson, Senior Research Scientist, Wikimedia Foundation and National Archives; 30 minutes including Q&A)
 
-**Breakout:** Focus on operationalizing ethics in procurement II 
+**Breakout:** Procurement and Ethics in Practice
+
+**Breakout:** Drafting the Framework
 
 **Plenary:** Framing future group work (Virginia Tech)
 
