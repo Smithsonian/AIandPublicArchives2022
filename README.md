@@ -3,7 +3,7 @@
 
 **Where:** Zoom link provided via email
 
-### Tentative Agenda (more details to come): November 2022
+### Tentative Agenda: November 2022
 
 ## Day 1: Wednesday, November 16th 
 
