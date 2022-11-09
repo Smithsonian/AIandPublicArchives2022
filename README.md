@@ -9,29 +9,38 @@
 
 **Ice Breaker and Introduction:** 1:00-1:10PM
 
-**Plenary:** Proposed Frameworks and Stepping Toward Creating an Institutional AI Ethics Statement (Library of Congress and Smithsonian; 45 mins; 1:10-1:55PM)
+**Plenary:** Proposed Frameworks and Stepping Toward Creating an Institutional AI Ethics Statement (Library of Congress and Smithsonian; 1:10-1:55PM)
 
 **Break:** 5 minutes
 
 **Plenary:** Scenarios for operationalizing AI in LAMs - Framing Breakout Activity (5 minutes)
 
-**Breakout:** Scenarios for operationalizing AI in LAMs (30 minutes; 2:05-2:35PM)
+**Breakout:** Scenarios for operationalizing AI in LAMs (2:05-2:35PM)
 
-**Plenary:** Discussion (20 minutes; 2:35-2:55PM)
+**Plenary:** Discussion (2:35-2:55PM)
 
 **Break:** 5 minutes
 
-**Breakout:** Beginning to Outline the Ethics Framework (40 minutes; 3:00-3:40PM)
+**Breakout:** Beginning to Outline the Ethics Framework (3:00-3:40PM)
 
 ## Day 2: Thursday, November 17th
 
-**Plenary:** Wikidata AI Ethics Research (Isaac Johnson, Senior Research Scientist, Wikimedia Foundation and National Archives; 30 minutes including Q&A)
+**Ice Breaker and Introduction:** 1:00-1:10PM
 
-**Breakout:** Procurement and Ethics in Practice
+**Plenary:** Procurement and AI Ethics in Practice (Afua Bruce, ANB Advisory Group LLC 1:10-2:25PM)
 
-**Breakout:** Drafting the Framework
+**Break:** 5 minutes
 
-**Plenary:** Framing future group work (Virginia Tech)
+**Plenary:** Wikidata AI Ethics Research (Isaac Johnson, Senior Research Scientist, Wikimedia Foundation and National Archives; 2:30-2:55PM)
+
+**Breakout:** Drafting the Framework I (2:55-3:15PM)
+
+**Break:** 5 minutes
+
+**Breakout:** Drafting the Framework II (3:20-3:40PM)
+
+**Plenary:** Framing future group work (Virginia Tech; 3:40-4:00PM)
+
 
 ***
 
