@@ -3,16 +3,25 @@
 
 **Where:** Zoom link provided via email
 
-### Tentative Agenda: November 2022
+### Agenda: November 2022
 
 ## Day 1: Wednesday, November 16th 
 
-**Plenary:** Proposed Frameworks and Stepping Toward Creating an Institutional AI Ethics Statement (Library of Congress and Smithsonian; 45 mins)
+**Ice Breaker and Introduction:** 1:00-1:10PM
 
-**Breakout:** Focus on Operationalizing Ethics in Procurement
+**Plenary:** Proposed Frameworks and Stepping Toward Creating an Institutional AI Ethics Statement (Library of Congress and Smithsonian; 45 mins; 1:10-1:55PM)
 
-**Breakout:** Beginning to Outline the Ethics Framework
+**Break:** 5 minutes
 
+**Plenary:** Framing Worst Case Scenario Activity (5 minutes)
+
+**Breakout:** Scenarios for operationalizing AI in LAMs (30 minutes; 2:05-2:35PM)
+
+**Plenary:** Discussion (20 minutes; 2:35-2:55PM)
+
+**Break:** 5 minutes
+
+**Breakout:** Beginning to Outline the Ethics Framework (40 minutes; 3:00-3:40PM)
 
 ## Day 2: Thursday, November 17th
 
