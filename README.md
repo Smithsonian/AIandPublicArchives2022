@@ -13,7 +13,7 @@
 
 **Break:** 5 minutes
 
-**Plenary:** Framing Worst Case Scenario Activity (5 minutes)
+**Plenary:** Scenarios for operationalizing AI in LAMs - Framing Breakout Activity (5 minutes)
 
 **Breakout:** Scenarios for operationalizing AI in LAMs (30 minutes; 2:05-2:35PM)
 
